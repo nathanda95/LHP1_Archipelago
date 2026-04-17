@@ -1,4 +1,4 @@
-# 🧙 LEGO Harry Potter Years 1–4 — Archipelago Integration
+# LEGO Harry Potter Years 1–4 — Archipelago Integration
 
 An experimental project aiming to integrate **LEGO Harry Potter: Years 1–4** into the **Archipelago multiworld system**.
 
@@ -6,16 +6,16 @@ This project focuses on **reverse engineering the game memory** to track progres
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
-⚠️ Work in progress — everything listed below is **subject to change**.
+Work in progress — everything listed below is **subject to change**.
 
 Most systems are still under research (memory mapping, stability, feasibility).
 The final implementation may differ significantly from the ideas presented here.
 
 ---
 
-## 🎯 Goal
+## Goal
 
 * Track in-game progression in real time
 * Define meaningful **checks** and **items**
@@ -24,7 +24,7 @@ The final implementation may differ significantly from the ideas presented here.
 
 ---
 
-## 🔍 Planned Checks (Ideas)
+## Planned Checks (Ideas)
 
 The following are potential progression checks currently being explored:
 
@@ -49,7 +49,7 @@ The following are potential progression checks currently being explored:
 
 ---
 
-## 🎁 Planned Items (Ideas)
+## Planned Items (Ideas)
 
 Potential items that could be randomized and sent between players:
 
@@ -75,7 +75,7 @@ Potential items that could be randomized and sent between players:
 
 ---
 
-## 🧠 Technical Approach
+## Technical Approach
 
 This project relies on:
 
@@ -87,7 +87,7 @@ This project relies on:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, ideas, and findings are welcome!
 
@@ -101,7 +101,7 @@ is especially valuable.
 
 ---
 
-## 📌 Notes
+## Notes
 
 Everything in this README is exploratory.
 The final system design will depend heavily on what is technically achievable.
